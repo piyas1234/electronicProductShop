@@ -4,7 +4,7 @@
   background-color: #2196F3;
   padding: 10px"> 
  
-<img style="width:50%" src="mobileapp1.png"/>
+<img style="width:200px" src="mobileapp1.png"/>
 <img style="width:50%" src="mobileapp2.png"/>
 <img style="width:50%" src="mobileapp3.png"/>
 <img style="width:50%" src="mobileapp4.png"/>
