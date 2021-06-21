@@ -1,6 +1,6 @@
 <div style="display: grid;
   grid-template-columns: auto auto auto auto,
-  grid-gap: 10px,
+  grid-gap: 200px,
   background-color: #2196F3,
   padding: 10px"> 
  
