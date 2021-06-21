@@ -1,10 +1,10 @@
 <div style="display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;">
+  grid-template-columns: auto auto auto auto,
+  grid-gap: 10px,
+  background-color: #2196F3,
+  padding: 10px"> 
  
-<img src="mobileapp1.png"/>
+<img style="" src="mobileapp1.png"/>
 <img src="mobileapp2.png"/>
 <img src="mobileapp3.png"/>
 <img src="mobileapp4.png"/>
