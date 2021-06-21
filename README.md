@@ -26,8 +26,7 @@ Author : Piyas Talukder
 
 ===========================
 
-- [Live Site](https://go-riders-67527.web.app/)
-- [Github Link](https://github.com/Porgramming-Hero-web-course/react-auth-piyas1234)
+- [Github Link](https://github.com/piyas1234/electronicProductShop)
  
 
 About project:
