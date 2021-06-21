@@ -1,20 +1,20 @@
 <div style="display: grid;
-  grid-template-columns: auto auto auto auto,
-  grid-gap: 200px,
-  background-color: #2196F3,
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 200px;
+  background-color: #2196F3;
   padding: 10px"> 
  
-<img style="" src="mobileapp1.png"/>
-<img src="mobileapp2.png"/>
-<img src="mobileapp3.png"/>
-<img src="mobileapp4.png"/>
-<img src="mobileapp5.png"/>
-<img src="mobileapp6.png"/>
-<img src="mobileapp7.png"/>
-<img src="mobileapp8.png"/>
-<img src="mobileapp9.png"/>
-<img src="mobileapp10.png"/>
-<img src="mobileapp11.png"/>
+<img style="width:50%" src="mobileapp1.png"/>
+<img style="width:50%" src="mobileapp2.png"/>
+<img style="width:50%" src="mobileapp3.png"/>
+<img style="width:50%" src="mobileapp4.png"/>
+<img style="width:50%" src="mobileapp5.png"/>
+<img style="width:50%" src="mobileapp6.png"/>
+<img style="width:50%" src="mobileapp7.png"/>
+<img style="width:50%" src="mobileapp8.png"/>
+<img style="width:50%" src="mobileapp9.png"/>
+<img style="width:50%" src="mobileapp10.png"/>
+<img style="width:50%" src="mobileapp11.png"/>
 
  <div>
  
