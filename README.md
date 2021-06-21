@@ -4,17 +4,17 @@
   background-color: #2196F3;
   padding: 10px"> 
  
-<img  width="300px" src="mobileapp1.png"/>
-<img width="300px"  src="mobileapp2.png"/>
-<img width="300px"  src="mobileapp3.png"/>
-<img width="300px"  src="mobileapp4.png"/>
-<img width="300px"  src="mobileapp5.png"/>
-<img width="300px"  src="mobileapp6.png"/>
-<img width="300px"  src="mobileapp7.png"/>
-<img width="300px"  src="mobileapp8.png"/>
-<img width="300px"  src="mobileapp9.png"/>
-<img width="300px"  src="mobileapp10.png"/>
-<img width="300px"  src="mobileapp11.png"/>
+<img  width="250px" src="mobileapp1.png"/>
+<img width="250px"  src="mobileapp2.png"/>
+<img width="250px"  src="mobileapp3.png"/>
+<img width="250px"  src="mobileapp4.png"/>
+<img width="250px"  src="mobileapp5.png"/>
+<img width="250px"  src="mobileapp6.png"/>
+<img width="250px"  src="mobileapp7.png"/>
+<img width="250px"  src="mobileapp8.png"/>
+<img width="250px"  src="mobileapp9.png"/>
+<img width="250px"  src="mobileapp10.png"/>
+<img width="250px"  src="mobileapp11.png"/>
 
  <div>
  
